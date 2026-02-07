@@ -40,13 +40,13 @@ I am a **Computer Science (AI & ML) undergraduate** passionate about building
 - Docker | Terraform | GitHub Actions
 
 ### 🤖 AI / ML & Data
-- Machine Learning
+- Machine Learning | Deep learning
 - NLP | OCR | RAG
 - Jupyter Notebook | Kaggle | Google Colab
 
 ### 🧰 Tools
 - Linux | Git & GitHub
-- VS Code | ChatGPT
+- VS Code 
 
 ---
 
