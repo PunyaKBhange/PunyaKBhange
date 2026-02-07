@@ -1,39 +1,52 @@
 <h1 align="center">Hi 👋, I'm Punya K Bhange</h1>
-<h3 align="center">AI & ML Engineering Student | Cloud & Full Stack Enthusiast</h3>
+<h3 align="center">AI & ML Engineering Student | Cloud-Native Developer | Problem Solver</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/punya-k-bhange-182113300">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin">
+  </a>
+  <a href="mailto:punyabhange30@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail">
+  </a>
+  <a href="https://github.com/PunyaKBhange">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github">
+  </a>
+</p>
 
 ---
 
 ## 🚀 About Me
-I’m a tech-driven Computer Science (AI & ML) student passionate about building **intelligent systems**, **cloud-native applications**, and **real-world problem-solving solutions**.
 
-- 🎓 B.Tech CSE (AI & ML) @ Dayananda Sagar University (CGPA: **9.01**)
-- ☁️ Interested in **Machine Learning, Cloud Computing, and Full Stack Development**
-- 🧠 Actively working on **AI, NLP, AWS, and Serverless architectures**
-- 🌱 Constant learner through projects, certifications, and hackathons
+I am a **Computer Science (AI & ML) undergraduate** passionate about building  
+**intelligent systems, cloud-scale applications, and real-world solutions**.
+
+- 🎓 B.Tech CSE (AI & ML), Dayananda Sagar University (CGPA: **9.01**)
+- ☁️ Strong interest in **AWS, Serverless, Cloud Automation**
+- 🤖 Working on **Machine Learning, NLP, RAG, OCR**
+- 🧠 Learning by building real projects & participating in hackathons
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Programming Languages
-- Python, C, Java
+- Python | C | Java
 
 ### 🌐 Web & Databases
-- HTML, CSS, MySQL
+- HTML | CSS | MySQL
 
 ### ☁️ Cloud & DevOps
 - AWS (EC2, Lambda, API Gateway, DynamoDB, ECS)
-- Docker, Terraform, GitHub Actions
+- Docker | Terraform | GitHub Actions
 
 ### 🤖 AI / ML & Data
 - Machine Learning
-- NLP, OCR
-- Retrieval-Augmented Generation (RAG)
+- NLP | OCR | RAG
+- Jupyter Notebook | Kaggle | Google Colab
 
-### 🧰 Tools & Platforms
-- Linux, Git & GitHub
-- Jupyter Notebook, Google Colab
-- VS Code, Kaggle, ChatGPT
+### 🧰 Tools
+- Linux | Git & GitHub
+- VS Code | ChatGPT
 
 ---
 
@@ -42,8 +55,8 @@ I’m a tech-driven Computer Science (AI & ML) student passionate about building
 ### 🍽️ AI Meal Planner
 Personalized meal plans generated using user health metrics and ML models.
 
-### ☁️ Startup-Scale Cloud Platform (AWS)
-Designed a **highly available cloud infrastructure** using:
+### ☁️ Startup-Scale Cloud Platform on AWS
+Highly available cloud architecture using:
 - Terraform
 - Docker & ECS
 - GitHub Actions
@@ -51,12 +64,11 @@ Designed a **highly available cloud infrastructure** using:
 
 ### 📝 Multi-Format Intelligent Text Summarizer
 - NLP + OCR based summarization
-- Handles PDFs, images, and text documents
+- Supports PDFs, images, and text
 
 ### 🔐 Secure Serverless Backend on AWS
-- AWS Lambda + API Gateway
-- DynamoDB
-- IAM-based security
+- AWS Lambda & API Gateway
+- DynamoDB & IAM security
 - CloudWatch monitoring
 
 ### 🌍 Multilingual RAG (mRAG+)
@@ -65,7 +77,7 @@ Designed a **highly available cloud infrastructure** using:
 
 ---
 
-## 📜 Certifications
+## 🏆 Certifications
 - AWS Academy – Cloud Foundations
 - IBM – Fundamentals of Cloud Computing
 - Infosys Springboard – Linux (Beginner to Advanced)
@@ -74,7 +86,7 @@ Designed a **highly available cloud infrastructure** using:
 
 ---
 
-## 🏆 Activities & Hackathons
+## 🏅 Hackathons & Activities
 - 🚀 NASA Space Apps Challenge (Global)
 - 🖥️ FOSS Meet 2025 – NIT Calicut
 - 🌍 Choose France Tour – French Embassy in India
@@ -83,18 +95,18 @@ Designed a **highly available cloud infrastructure** using:
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PunyaKBhange&show_icons=true&theme=react" />
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PunyaKBhange&theme=react" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let’s Connect
+
 - 💼 LinkedIn: https://www.linkedin.com/in/punya-k-bhange-182113300
 - 📧 Email: punyabhange30@gmail.com
-- 💻 GitHub: https://github.com/PunyaKBhange
 
----
-
-⭐ *“Learning by building. Growing by sharing.”*
+⭐ *Learning by building. Growing by sharing.*
