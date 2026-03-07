@@ -32,17 +32,6 @@ I am a **Computer Science (AI & ML) undergraduate** passionate about building
 ### 👨‍💻 Programming Languages
 - Python | C | Java
 
-### 🌐 Web & Databases
-- HTML | CSS | MySQL
-
-### ☁️ Cloud & DevOps
-- AWS (EC2, Lambda, API Gateway, DynamoDB, ECS)
-- Docker | Terraform | GitHub Actions
-
-### 🤖 AI / ML & Data
-- Machine Learning | Deep learning
-- NLP | OCR | RAG
-- Jupyter Notebook | Kaggle | Google Colab
 
 ### 🧰 Tools
 - Linux | Git & GitHub
